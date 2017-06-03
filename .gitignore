@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+HDCLUB_Stat/bin/*
+HDCLUB_Stat/obj/*
